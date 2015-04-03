@@ -9,4 +9,4 @@
 
 ###Manual
 ---
-You can the manual from the git repo
+You can get the manual [here](https://github.com/faiyaz26/Sublime-Text-Plugin-for-Hackerrank/blob/master/Manual.pdf) 
